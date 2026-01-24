@@ -3,18 +3,18 @@
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": false,
-    "BOTNAME": " 💢 ",
-    "AMDIN_NAME": "Lương Trường Khôi",
+    "BOTNAME": "𝓘𝓷𝓼𝓪𝓰𝔂𝓸𝓴 𝓑𝓸𝓽",
+    "AMDIN_NAME": "Riyuso Tegk",
     "keyRent": "Lunar",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": ".",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/share/1CFHoP1Bye/",
+    "PREFIX": "!",
     "box_admin": "",
     "ADMINBOT": [
-        "",
+        "61561101096216",
         ""
     ],
     "NDH": [
-        "",
+        "61561101096216",
         ""
     ],
     "autoCleanCache": {
